@@ -1,0 +1,7 @@
+CAT,tom,bob,black,short
+
+DOG,spot,susan,white,medium
+
+BIRD,poly,steve,green
+
+END

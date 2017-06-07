@@ -1,0 +1,6 @@
+c:\users\rajesh\documents\visual studio 2017\Projects\Asssignment2\Asssignment2\obj\Debug\Asssignment2.csprojResolveAssemblyReference.cache
+c:\users\rajesh\documents\visual studio 2017\Projects\Asssignment2\Asssignment2\bin\Debug\Asssignment2.exe.config
+c:\users\rajesh\documents\visual studio 2017\Projects\Asssignment2\Asssignment2\bin\Debug\Asssignment2.exe
+c:\users\rajesh\documents\visual studio 2017\Projects\Asssignment2\Asssignment2\bin\Debug\Asssignment2.pdb
+c:\users\rajesh\documents\visual studio 2017\Projects\Asssignment2\Asssignment2\obj\Debug\Asssignment2.exe
+c:\users\rajesh\documents\visual studio 2017\Projects\Asssignment2\Asssignment2\obj\Debug\Asssignment2.pdb
