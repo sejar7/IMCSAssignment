@@ -12,11 +12,11 @@ namespace Asssignment2
         List<Dog> dogList = new List<Dog>();
         List<Cat> catList = new List<Cat>();
         List<Bird> birdList = new List<Bird>();
-
+        StreamReader sr;
         public AnimalHospital(string inputFile)
         {
             string line = "";
-            StreamReader sr = new StreamReader("inputfile.txt");
+             sr = new StreamReader("inputfile.txt");
             while ((line = sr.ReadLine()) != "END")
             {
                 string[] lineContents = line.Split(',');
@@ -63,6 +63,8 @@ namespace Asssignment2
                     }
                 }
             }
+
+            sr.Close();
         }
 
 
@@ -118,6 +120,12 @@ namespace Asssignment2
                     Console.WriteLine(dogList.ElementAt(i).GetpetInfo());
                 }
             }
+        }
+
+        ~AnimalHospital()
+        {
+
+            sr.Close();
         }
     }
 }

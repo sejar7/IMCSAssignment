@@ -14,6 +14,7 @@ namespace Asssignment2
         public Dog(string petName, string ownerName, string color, string size) : base(petName, ownerName, color)
         {
             this.size = size;
+            Console.WriteLine("Dog instance created");
         }
 
         public string Getsize()
